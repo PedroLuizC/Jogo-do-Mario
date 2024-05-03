@@ -8,6 +8,6 @@ Node.js
 Angular CLI
 Ionic 
 
-no terminal dentro da pasta do game, colocar:
+No terminal dentro da pasta do game, colocar:
 
 ionic serve
